@@ -1,6 +1,7 @@
 package inheritanceConcepts;
 //BMW is Child class
 //This file is edited in GitHub
+//This file is now updated in Eclipse.
 
 public class BMW extends Car{
 

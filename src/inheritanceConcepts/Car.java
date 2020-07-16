@@ -1,6 +1,7 @@
 package inheritanceConcepts;
 
 //Car is a Parent class
+//This file is also updated in Eclipse
 
 public class Car extends Vehicle { 
 
